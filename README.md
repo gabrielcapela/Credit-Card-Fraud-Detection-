@@ -15,3 +15,5 @@ Despite this effort, the challenge of detecting fraud remains complex. Machine l
 This critical balance makes the problem particularly challenging and interesting for the application of machine learning techniques.
 
 The data used was extracted from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud) and contains thousands of credit card transactions made in September 2013 by European cardholders.
+
+Click [here](Credit_Card_Fraud_Detection_Project.ipynb) to see the complete project.
